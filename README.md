@@ -64,4 +64,12 @@ Objects consist of the following components:
 - **Key Management Service (KMS)**: Managed service for creating and controlling encryption keys.
 - **Customer Master Keys (CMKs)**: Primary resources in KMS used to encrypt and decrypt data.
 
+### KMS API and CLI
+- Encrypt: Encrypts plaintext into ciphertext using a specified CMK.
+- Decrypt: Decrypts ciphertext back into plaintext using the same CMK.
+- GenerateDataKey: Generates a data encryption key (DEK) that can be used to encrypt data locally.
+- ReEncrypt: Re-encrypts ciphertext using a different CMK.
+- DescribeKey: Provides metadata about a specified CMK.
+- ListKeys: Lists all CMKs in the account.
+
 # Domain 5: Networking and Content Delivery
