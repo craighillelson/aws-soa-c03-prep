@@ -1,10 +1,10 @@
 # AWS CloudOps Engineer - Associate SOA-C03 Notes
 # Domains
-- **Domain 1**: Monitoring, Logging, Analysis, Remediation, and Performance Optimization (22% of scored content)
-- **Domain 2**: Reliability and Business Continuity (22% of scored content)
-- **Domain 3**: Deployment, Provisioning, and Automation (22% of scored content)
-- **Domain 4**: Security and Compliance (16% of scored content) 
-- **Domain 5**: Networking and Content Delivery (18% of scored content)
+- **[Domain 1](#domain-1-monitoring-logging-analysis-remediation-and-performance-optimization)**: Monitoring, Logging, Analysis, Remediation, and Performance Optimization (22% of scored content)
+- **[Domain 2](#domain-2-reliability-and-business-continuity)**: Reliability and Business Continuity (22% of scored content)
+- **[Domain 3](#domain-3-deployment-provisioning-and-automation)**: Deployment, Provisioning, and Automation (22% of scored content)
+- **[Domain 4](#domain-4-security-and-compliance)**: Security and Compliance (16% of scored content) 
+- **[Domain 5](#domain-5-networking-and-content-delivery)**: Networking and Content Delivery (18% of scored content)
 
 # Fundamentals
 
