@@ -59,4 +59,9 @@ Objects consist of the following components:
 - **In Transit**: Data is encrypted when sent over the network.
 - **Symmetric Encryption**: Same key is used for encryption and decryption.
 - **Asymmetric Encryption**: Public key is used for encryption, private key for decryption.
+
+## KMS
+- **Key Management Service (KMS)**: Managed service for creating and controlling encryption keys.
+- **Customer Master Keys (CMKs)**: Primary resources in KMS used to encrypt and decrypt data.
+
 # Domain 5: Networking and Content Delivery
