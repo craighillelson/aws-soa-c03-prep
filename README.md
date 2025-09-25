@@ -21,3 +21,10 @@
 - **Throughput Optimized HDD (st1)**: Low-cost HDD for frequently accessed, throughput-intensive workloads.
 - **Cold HDD (sc1)**: Lowest-cost HDD for less frequently accessed workloads.
 - **Magnetic (standard)**: Lowest-cost HDD for infrequently accessed workloads.
+
+# Elasticache
+## Use Cases
+- sessions
+- database caching
+- leaderboards
+- streaming data dashboards
