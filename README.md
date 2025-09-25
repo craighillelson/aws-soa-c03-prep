@@ -54,4 +54,9 @@ Objects consist of the following components:
     - swap URLs
     - no downtime
 # Domain 4: Security and Compliance
+## Encryption
+- **At Rest**: Data is encrypted when stored.
+- **In Transit**: Data is encrypted when sent over the network.
+- **Symmetric Encryption**: Same key is used for encryption and decryption.
+- **Asymmetric Encryption**: Public key is used for encryption, private key for decryption.
 # Domain 5: Networking and Content Delivery
