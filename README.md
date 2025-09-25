@@ -72,4 +72,7 @@ Objects consist of the following components:
 - **DescribeKey**: Provides metadata about a specified CMK.
 - **ListKeys**: Lists all CMKs in the account.
 
+## Secrets Manager
+## SSM Parameter Store
+
 # Domain 5: Networking and Content Delivery
