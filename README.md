@@ -13,3 +13,11 @@
 - **Memory Optimized**: R5, R6g
 - **Storage Optimized**: I3, I3en
 - **Accelerated Computing**: P3, P4, G4
+
+# EBS
+## Volume Types
+- **General Purpose SSD (gp2, gp3)**: Balanced price and performance for a wide variety of workloads.
+- **Provisioned IOPS SSD (io1, io2)**: High-performance SSD for I/O-intensive applications.
+- **Throughput Optimized HDD (st1)**: Low-cost HDD for frequently accessed, throughput-intensive workloads.
+- **Cold HDD (sc1)**: Lowest-cost HDD for less frequently accessed workloads.
+- **Magnetic (standard)**: Lowest-cost HDD for infrequently accessed workloads.
