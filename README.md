@@ -40,5 +40,18 @@ Objects consist of the following components:
 # Domain 1: Monitoring, Logging, Analysis, Remediation, and Performance Optimization
 # Domain 2: Reliability and Business Continuity
 # Domain 3: Deployment, Provisioning, and Automation
+## Deploying Updates
+- **All at once**
+- **Rolling**
+- **Rolling with additional batch**
+    - additional cost
+    - good for prod environments
+- **Immutable**
+    - longest deployment
+    - quick rollback in case of failures
+    - great for prod environments
+- **Blue/Green**
+    - swap URLs
+    - no downtime
 # Domain 4: Security and Compliance
 # Domain 5: Networking and Content Delivery
