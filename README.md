@@ -30,3 +30,9 @@
 - database caching
 - leaderboards
 - streaming data dashboards
+
+## S3
+Objects consist of the following components:
+- **Key**: Unique identifier for the object within a bucket.
+- **Value**: The data stored in the object.
+- **Metadata**: Additional information about the object (e.g., content type, size).
