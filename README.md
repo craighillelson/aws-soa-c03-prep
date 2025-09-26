@@ -54,6 +54,16 @@ Objects consist of the following components:
     - swap URLs
     - no downtime
 # Domain 4: Security and Compliance
+
+## AWS Certificate Manager (ACM)
+- can be used to provision, manage, and deploy SSL/TLS X.509 certificates
+- can be used with many AWS services including 
+    - Elastic Load Balancing
+    - CloudFormation
+    - CloudFront
+    - Elastic Beanstalk
+    - Nitro Enclaves
+
 ## Encryption
 - **At Rest**: Data is encrypted when stored.
 - **In Transit**: Data is encrypted when sent over the network.
