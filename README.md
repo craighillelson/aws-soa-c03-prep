@@ -40,6 +40,11 @@ Objects consist of the following components:
 
 
 # Domain 1: Monitoring, Logging, Analysis, Remediation, and Performance Optimization
+## CloudWatch
+- **CloudWatch Alarms**: Monitor metrics and send notifications or take actions based on thresholds
+- **CloudWatch Logs**: Collect and store log files from AWS resources
+- **CloudWatch Events**: Respond to state changes in AWS resources
+- **CloudWatch Dashboards**: Create customizable dashboards to visualize metrics and logs
 
 # Domain 2: Reliability and Business Continuity
 - **Recovery Point Objective (RPO)**: Maximum acceptable amount of data loss measured in time, measured in seconds, minutes, or hours
