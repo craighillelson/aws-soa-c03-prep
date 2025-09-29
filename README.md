@@ -37,6 +37,8 @@ Objects consist of the following components:
 - **Value**: The data stored in the object.
 - **Metadata**: Additional information about the object (e.g., content type, size).
 
+
+
 # Domain 1: Monitoring, Logging, Analysis, Remediation, and Performance Optimization
 
 # Domain 2: Reliability and Business Continuity
@@ -47,6 +49,10 @@ Objects consist of the following components:
 - **Pilot Light**: Minimal version of an environment is always running in the cloud.
 - **Warm Standby**: A scaled-down version of a fully functional environment is always running
 - **Multi-site active/active**: Data is accessible from multiple AWS Regions.
+## S3 Durability, Availability, and Lifecycle
+- **Durability**: 99.999999999% (11 nines) durability
+- **Availability**: Variable based on storage class
+- **Lifecycle Policies**: Automate the transition of objects between storage classes and the expiration of objects.
 
 # Domain 3: Deployment, Provisioning, and Automation
 ## Deploying Updates
