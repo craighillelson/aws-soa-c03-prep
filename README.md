@@ -38,9 +38,16 @@ Objects consist of the following components:
 - **Metadata**: Additional information about the object (e.g., content type, size).
 
 # Domain 1: Monitoring, Logging, Analysis, Remediation, and Performance Optimization
+
 # Domain 2: Reliability and Business Continuity
 - **Recovery Point Objective (RPO)**: Maximum acceptable amount of data loss measured in time, measured in seconds, minutes, or hours
 - **Recovery Time Objective (RTO)**: Maximum acceptable amount of time to restore a system measured in seconds, minutes, or hours
+## DR Strategies
+- **Backup and Restore**: Strategies to protect data and ensure availability in case of failure.
+- **Pilot Light**: Minimal version of an environment is always running in the cloud.
+- **Warm Standby**: A scaled-down version of a fully functional environment is always running
+- **Multi-site active/active**: Data is accessible from multiple AWS Regions.
+
 # Domain 3: Deployment, Provisioning, and Automation
 ## Deploying Updates
 - **All at once**
