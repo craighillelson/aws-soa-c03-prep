@@ -39,6 +39,8 @@ Objects consist of the following components:
 
 # Domain 1: Monitoring, Logging, Analysis, Remediation, and Performance Optimization
 # Domain 2: Reliability and Business Continuity
+- **Recovery Point Objective (RPO)**: Maximum acceptable amount of data loss measured in time, measured in seconds, minutes, or hours
+- **Recovery Time Objective (RTO)**: Maximum acceptable amount of time to restore a system measured in seconds, minutes, or hours
 # Domain 3: Deployment, Provisioning, and Automation
 ## Deploying Updates
 - **All at once**
@@ -53,6 +55,7 @@ Objects consist of the following components:
 - **Blue/Green**
     - swap URLs
     - no downtime
+
 # Domain 4: Security and Compliance
 
 ## AWS Certificate Manager (ACM)
