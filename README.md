@@ -108,3 +108,6 @@ Objects consist of the following components:
 ## SSM Parameter Store
 
 # Domain 5: Networking and Content Delivery
+
+# Reosource
+[Transitioning objects using Amazon S3 Lifecycle](https://docs.aws.amazon.com/AmazonS3/latest/userguide/lifecycle-transition-general-considerations.html)
