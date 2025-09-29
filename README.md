@@ -53,6 +53,12 @@ Objects consist of the following components:
 - **Durability**: 99.999999999% (11 nines) durability
 - **Availability**: Variable based on storage class
 - **Lifecycle Policies**: Automate the transition of objects between storage classes and the expiration of objects.
+## S3 Encryption
+- **Server-Side Encryption (SSE)**: Data is encrypted at rest by AWS.
+- **Client-Side Encryption**: Data is encrypted by the client before being sent to S3.
+- **SSE-S3**: AWS manages the encryption keys.
+- **SSE-KMS**: AWS Key Management Service (KMS) manages the encryption keys.
+- **SSE-C**: Customer manages the encryption keys.
 
 # Domain 3: Deployment, Provisioning, and Automation
 ## Deploying Updates
