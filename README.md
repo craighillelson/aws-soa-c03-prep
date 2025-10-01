@@ -99,6 +99,13 @@ do not aaply to users or roles inthe management account, only to member accounts
 - account factory
 - dashboard
 #### Guardrails
+- set of controls and best practices designed to help organizations manage and secure their AWS environments more effectively
+- preventive or detective
+- Guardrails can be aligned with various compliance standards (e.g., HIPAA, PCI DSS, GDPR) to help organizations meet regulatory requirements
+- guidance is either
+    - mandatory (must be followed)
+    - strongly recommended (should be followed)
+    - elective (optional, based on specific needs)
 
 ## AWS Certificate Manager (ACM)
 - can be used to provision, manage, and deploy SSL/TLS X.509 certificates
