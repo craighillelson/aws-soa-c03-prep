@@ -94,6 +94,10 @@ Objects consist of the following components:
 ### Service Control Policies (SCPs)
 do not aaply to users or roles inthe management account, only to member accounts in an organization
 ### AWS Control Tower
+- landing zone
+- guardrails
+- account factory
+- dashboard
 #### Guardrails
 
 ## AWS Certificate Manager (ACM)
