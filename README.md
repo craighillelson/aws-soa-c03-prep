@@ -82,6 +82,20 @@ Objects consist of the following components:
 
 # Domain 4: Security and Compliance
 
+## AWS Organizations and Control Tower
+### AWS Organizations
+- automated account creation and management
+- automated resource provisioning
+- improved security b cfreating and enforcing structure
+- reduced management overhead
+- simmplified auditing for compliance
+- centralized biling
+- simplified AWS service configuration across accounts
+### Service Control Policies (SCPs)
+do not aaply to users or roles inthe management account, only to member accounts in an organization
+### AWS Control Tower
+#### Guardrails
+
 ## AWS Certificate Manager (ACM)
 - can be used to provision, manage, and deploy SSL/TLS X.509 certificates
 - can be used with many AWS services including 
